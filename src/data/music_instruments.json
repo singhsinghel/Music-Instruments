@@ -1,0 +1,357 @@
+{
+  "instruments": [
+    {
+      "id": 1,
+      "title": "Fender Stratocaster Electric Guitar",
+      "description": "An iconic electric guitar with a comfortable body shape and smooth tones, perfect for all music styles.",
+      "price": 1200.0,
+      "category": "Guitars",
+      "brand": "Fender",
+      "image": "https://images.unsplash.com/photo-1501059104508-e158516511cd?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 10,
+      "rating": 4.8,
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Gibson Les Paul Standard Electric Guitar",
+      "description": "A powerful guitar known for its warm tones, suitable for rock and blues styles.",
+      "price": 2500.0,
+      "category": "Guitars",
+      "brand": "Gibson",
+      "image": "https://images.unsplash.com/photo-1520496938502-73e942d08cc3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 5,
+      "rating": 4.9,
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "Ibanez RG550 Electric Guitar",
+      "description": "A fast-playing guitar with a sleek neck and rich tones, ideal for metal and rock.",
+      "price": 900.0,
+      "category": "Guitars",
+      "brand": "Ibanez",
+      "image": "https://images.unsplash.com/photo-1459305272254-33a7d593a851?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 7,
+      "rating": 4.7,
+      "isFeatured": false
+    },
+    {
+      "id": 4,
+      "title": "Yamaha P-125 Digital Piano",
+      "description": "A compact digital piano with authentic sound and feel, ideal for practicing or performing at home.",
+      "price": 650.0,
+      "category": "Pianos",
+      "brand": "Yamaha",
+      "image": "https://images.unsplash.com/photo-1479118013749-9f79d55a28d0?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 5,
+      "rating": 4.6,
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "Roland RD-88 Digital Piano",
+      "description": "A lightweight stage piano with excellent sound quality, suitable for gigs and practice.",
+      "price": 97000,
+      "category": "Pianos",
+      "brand": "Roland",
+      "image": "https://images.unsplash.com/photo-1593697972361-20049710acb5?q=80&w=883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 3,
+      "rating": 4.7,
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Casio PX-S1000 Digital Piano",
+      "description": "A slim, stylish digital piano with authentic key feel and Bluetooth connectivity.",
+      "price": 800.0,
+      "category": "Pianos",
+      "brand": "Casio",
+      "image": "https://images.unsplash.com/photo-1524578471438-cdd96d68d82c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 6,
+      "rating": 4.5,
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Ludwig Breakbeats 4-Piece Drum Kit",
+      "description": "A compact, portable drum set designed for on-the-go musicians. Includes snare, bass drum, toms, and cymbals.",
+      "price": 400.0,
+      "category": "Drums",
+      "brand": "Ludwig",
+      "image": "https://images.unsplash.com/photo-1461784121038-f088ca1e7714?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 8,
+      "rating": 4.7,
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "title": "Pearl Roadshow 5-Piece Drum Set",
+      "description": "A full drum set with hardware, perfect for beginner and intermediate players.",
+      "price": 500.0,
+      "category": "Drums",
+      "brand": "Pearl",
+      "image": "https://plus.unsplash.com/premium_photo-1661825551641-a2fdfc8afdc1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 10,
+      "rating": 4.6,
+      "isFeatured": true
+    },
+    {
+      "id": 9,
+      "title": "Tama Imperialstar 6-Piece Drum Kit",
+      "description": "A professional-grade drum set with premium hardware and cymbals.",
+      "price": 900.0,
+      "category": "Drums",
+      "brand": "Tama",
+      "image": "https://images.unsplash.com/photo-1543443374-b6fe10a6ab7b?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 4,
+      "rating": 4.9,
+      "isFeatured": false
+    },
+    {
+      "id": 10,
+      "title": "Boss DS-1 Distortion Pedal",
+      "description": "A classic distortion pedal known for its crunchy, powerful sound, great for both beginners and experienced players.",
+      "price": 50.0,
+      "category": "Accessories",
+      "brand": "Boss",
+      "image": "https://images.unsplash.com/photo-1609823791314-f7f966d11323?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 20,
+      "rating": 4.5,
+      "isFeatured": false
+    },
+    {
+      "id": 11,
+      "title": "Dunlop Cry Baby Wah Pedal",
+      "description": "An iconic wah pedal used by guitar legends worldwide, delivering expressive, unique sound.",
+      "price": 120.0,
+      "category": "Accessories",
+      "brand": "Dunlop",
+      "image": "https://images.unsplash.com/photo-1527865118650-b28bc059d09a?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 12,
+      "rating": 4.8,
+      "isFeatured": true
+    },
+    {
+      "id": 12,
+      "title": "TC Electronic Hall of Fame Reverb Pedal",
+      "description": "A versatile reverb pedal with multiple settings to enhance your sound.",
+      "price": 150.0,
+      "category": "Accessories",
+      "brand": "TC Electronic",
+      "image": "https://images.unsplash.com/photo-1668027871320-8cb33336df3e?q=80&w=866&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 9,
+      "rating": 4.7,
+      "isFeatured": false
+    },
+    {
+      "id": 13,
+      "title": "Shure SM58 Dynamic Vocal Microphone",
+      "description": "A legendary microphone known for its durability and clear, crisp sound, ideal for live performances.",
+      "price": 100.0,
+      "category": "Microphones",
+      "brand": "Shure",
+      "image": "https://plus.unsplash.com/premium_photo-1677155842676-8e13e7053844?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 15,
+      "rating": 4.8,
+      "isFeatured": true
+    },
+    {
+      "id": 14,
+      "title": "Audio-Technica AT2020 Condenser Microphone",
+      "description": "A studio-quality condenser mic perfect for vocals and instruments.",
+      "price": 120.0,
+      "category": "Microphones",
+      "brand": "Audio-Technica",
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 10,
+      "rating": 4.7,
+      "isFeatured": false
+    },
+    {
+      "id": 15,
+      "title": "AKG C214 Condenser Microphone",
+      "description": "A high-performance mic ideal for both studio recording and live sound.",
+      "price": 400.0,
+      "category": "Microphones",
+      "brand": "AKG",
+      "image": "https://images.unsplash.com/photo-1531651008558-ed1740375b39?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 7,
+      "rating": 4.9,
+      "isFeatured": true
+    },
+    {
+      "id": 16,
+      "title": "Yamaha YFL-222 Flute",
+      "description": "A silver-plated flute with an easy response, perfect for beginners.",
+      "price": 500.0,
+      "category": "Woodwinds",
+      "brand": "Yamaha",
+      "image": "https://images.unsplash.com/photo-1638317037996-f86e745cf657?q=80&w=874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 9,
+      "rating": 4.7,
+      "isFeatured": false
+    },
+    {
+      "id": 17,
+      "title": "Buffet Crampon E11 Clarinet",
+      "description": "A wooden clarinet offering rich sound and easy playability, perfect for advancing players.",
+      "price": 800.0,
+      "category": "Woodwinds",
+      "brand": "Buffet Crampon",
+      "image": "https://images.unsplash.com/photo-1651232529463-9465ef1d34d4?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 6,
+      "rating": 4.8,
+      "isFeatured": true
+    },
+    {
+      "id": 18,
+      "title": "Yamaha YAS-280 Alto Saxophone",
+      "description": "An easy-to-play alto sax with excellent intonation, ideal for beginners.",
+      "price": 900.0,
+      "category": "Woodwinds",
+      "brand": "Yamaha",
+      "image": "https://images.unsplash.com/photo-1698912186906-2607eee2bf43?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 5,
+      "rating": 4.7,
+      "isFeatured": false
+    },
+    {
+      "id": 19,
+      "title": "Zildjian A Custom 20\" Ride Cymbal",
+      "description": "Bright, powerful, and cutting sound with a shimmering sustain, perfect for all styles of drumming.",
+      "price": 300.0,
+      "category": "Cymbals",
+      "brand": "Zildjian",
+      "image": "https://images.unsplash.com/photo-1542804277-c1f3382ec2aa?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 6,
+      "rating": 4.9,
+      "isFeatured": true
+    },
+    {
+      "id": 20,
+      "title": "Sabian HHX 18\" Crash Cymbal",
+      "description": "A powerful, dark-sounding crash cymbal suitable for rock and jazz.",
+      "price": 250.0,
+      "category": "Cymbals",
+      "brand": "Sabian",
+      "image": "https://images.unsplash.com/photo-1635178879499-4fcc79e1f9cc?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 8,
+      "rating": 4.8,
+      "isFeatured": false
+    }
+  ],
+  "testimonials": [
+    {
+      "category": "Guitars",
+      "testimonial": "As a guitarist, I’m always on the lookout for quality and tone, and this store delivers! Their selection of guitars, from Fender Stratocasters to Gibson Les Pauls, covers all styles and sounds. Whether you’re into electric or acoustic, there’s a guitar for every genre and player. The quality is top-notch, and I’m thrilled with my purchase!",
+      "name": "Jake M., Lead Guitarist"
+    },
+    {
+      "category": "Pianos",
+      "testimonial": "I couldn’t be happier with my new piano! The Yamaha P-125 I purchased is a dream for anyone who loves the rich tones of a quality digital piano. Their piano collection includes brands like Roland and Casio, each offering unique features for home practice or stage performance. A fantastic experience all around!",
+      "name": "Sarah K., Pianist"
+    },
+    {
+      "category": "Drums",
+      "testimonial": "I’ve been drumming for years, and finding a store with such a variety of quality kits is rare. The Ludwig Breakbeats kit I got is perfect for portable gigs! They also have Pearl and Tama sets that sound incredible. Whether for practice or live performance, their drum selection has something for everyone.",
+      "name": "Chris T., Drummer"
+    },
+    {
+      "category": "Accessories",
+      "testimonial": "This store’s accessories selection is incredible! I bought a Boss DS-1 Distortion Pedal, and it’s been a game-changer. They also carry items like the Cry Baby Wah Pedal and TC Electronic reverb pedals, so you can find the exact sound you're looking for. Perfect for anyone wanting to enhance their setup.",
+      "name": "Lena R., Session Musician"
+    },
+    {
+      "category": "Microphones",
+      "testimonial": "The Audio-Technica AT2020 I bought here has brought my recordings to a new level! They have mics for every need, like the Shure SM58 for live vocals and the AKG C214 for studio quality. Their range and quality make it easy to find the right mic for any setting.",
+      "name": "David L., Recording Engineer"
+    },
+    {
+      "category": "Woodwinds",
+      "testimonial": "As a woodwind player, I’m so happy to have found this store! I recently purchased the Yamaha YFL-222 flute, which is amazing for beginners and pros alike. They also offer clarinets and saxophones from top brands. The collection here has something for every woodwind musician.",
+      "name": "Emily W., Flutist"
+    }
+  ],
+  "webinars": [
+    {
+      "topic": "Introduction to Electric Guitars",
+      "address": "123 Music Lane, Mumbai, Maharashtra, 400001",
+      "date": "2024-11-20",
+      "time": "6:00 PM - 8:00 PM",
+      "contact": "+91-9876543210",
+      "link": "mailto:info@mumbaimusic.com"
+    },
+    {
+      "topic": "Mastering Digital Pianos",
+      "address": "456 Harmony Road, Bangalore, Karnataka, 560001",
+      "date": "2024-12-05",
+      "time": "2:00 PM - 4:00 PM",
+      "contact": "+91-9876543211",
+      "link": "mailto:info@bangaloremusic.com"
+    },
+    {
+      "topic": "Drumming Techniques for Beginners",
+      "address": "789 Rhythm Street, Delhi, 110001",
+      "date": "2024-11-30",
+      "time": "1:00 PM - 3:00 PM",
+      "contact": "+91-9876543212",
+      "link": "mailto:info@delhimusic.com"
+    },
+    {
+      "topic": "Vocal Techniques and Microphone Usage",
+      "address": "321 Melody Avenue, Chennai, Tamil Nadu, 600001",
+      "date": "2024-12-15",
+      "time": "5:00 PM - 7:00 PM",
+      "contact": "+91-9876543213",
+      "link": "mailto:info@chennaimusic.com"
+    },
+    {
+      "topic": "Understanding Woodwind Instruments",
+      "address": "654 Tune Street, Hyderabad, Telangana, 500001",
+      "date": "2024-11-25",
+      "time": "3:00 PM - 5:00 PM",
+      "contact": "+91-9876543214",
+      "link": "mailto:info@hyderabadmusic.com"
+    },
+    {
+      "topic": "Advanced Music Production Techniques",
+      "address": "987 Soundwave Road, Pune, Maharashtra, 411001",
+      "date": "2024-12-10",
+      "time": "4:00 PM - 6:00 PM",
+      "contact": "+91-9876543215",
+      "link": "mailto:info@punemusic.com"
+    }
+  ],
+
+  "socials": [
+    {
+      "id": 1,
+      "platform": "GitHub",
+      "username": "@singhsinghel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+      "link": "https://github.com/singhsinghel"
+    },
+    {
+      "id": 2,
+      "platform": "Instagram",
+      "username": "@narayanastra__",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+      "link": "https://www.instagram.com/narayanastra__/"
+    },
+    {
+      "id": 3,
+      "platform": "Twitter",
+      "username": "@narayanastra__",
+      "image": "https://cdn-icons-png.flaticon.com/512/733/733579.png",
+      "link": "https://x.com/narayanastra__"
+    },
+    {
+      "id": 4,
+      "platform": "LinkedIn",
+      "username": "@ankitsinghel",
+      "image": "https://cdn-icons-png.flaticon.com/512/733/733561.png",
+      "link": "https://www.linkedin.com/in/ankitsinghel/"
+    }
+  ]
+}
