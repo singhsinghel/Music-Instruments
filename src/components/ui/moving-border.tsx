@@ -80,7 +80,7 @@ export const MovingBorder = ({
   duration?: number;
   rx?: string;
   ry?: string;
-  [key: string]: any;
+  [key: string]: string|number|React.ReactNode;
 }) => {
   const pathRef = useRef<any>();
   const progress = useMotionValue<number>(0);
