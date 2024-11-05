@@ -4,7 +4,7 @@ import Link from "next/link";
 import data from "@/data/music_instruments.json";
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
-const page = () => {
+const Page = () => {
   
     interface Instrument {
     id: number;
@@ -85,4 +85,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

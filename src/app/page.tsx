@@ -1,6 +1,5 @@
 import { ContactMe } from "@/components/ContactMe";
 import FeaturedInstruments from "@/components/FeaturedInstruments";
-import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Testimonials from "@/components/Testimonials";
 import MusicWebinars from "@/components/ui/MusicWebinars";
