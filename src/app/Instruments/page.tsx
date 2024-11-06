@@ -18,7 +18,6 @@ const InstrumentList = () => {
     isFeatured: boolean;
     image: string;
   }
-
   const searchParams = useSearchParams();
   const category = searchParams.get("category");
 
@@ -27,13 +26,11 @@ const InstrumentList = () => {
         (instrument: Instrument) => instrument.category === category
       )
     : data.instruments;
-
   return (
     <div className="min-h-screen bg-black py-12 pt-36">
       <h1 className="text-center text-4xl font-bold leading-loose">
         All Instruments ({filteredInstruments.length})
       </h1>
-
       <div className="flex flex-wrap justify-evenly">
         {filteredInstruments.map((instrument: Instrument, index) => (
           <CardContainer key={index} className="inter-var mx-4 ">
